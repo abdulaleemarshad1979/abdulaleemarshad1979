@@ -1,16 +1,27 @@
 ## Hi there 👋
+I AM ABDUL ALEEM ARSHAD 
 
-<!--
-**abdulaleemarshad1979/abdulaleemarshad1979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software that solves real problems. Focused on AI-powered tools, web applications, and automation.
 
-Here are some ideas to get you started:
+🚀 What I’m doing
+Building AI-powered tools (PDF, image, web analyzers)
+Creating full-stack apps with real-world use cases
+Improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🧠 Tech I use
+Python, JavaScript
+Flask, Streamlit
+HTML, CSS
+AI APIs (OpenRouter, Mistral)
+Git & GitHub
+
+📌 Current focus
+Turning projects into usable products, not just demos.
+
+⚡ Fun fact
+I don’t just learn tech — I apply it.
+
+📫 Reach me
+Email: your-email@example.com
+LinkedIn: your-link
